@@ -83,8 +83,8 @@
 </p>
 
 <h3 align="left">:open_book: Books:</h3>
-<div style="display:flex">
-  <img style="width:300px" title="Clean code" alt="Clean code" src="https://www.cdiscount.com/pdt2/8/8/4/1/550x550/auc9780132350884/rw/clean-code-martin-robert.jpg" />
-  <img style="width:300px" title="Lean startup" alt="Lean startup" src="https://www.cdiscount.com/pdt2/4/0/5/1/550x550/9782744066405/rw/lean-startup.jpg" />
-  <img style="width:300px" title="Software craft" alt="Software craft" src="https://www.cdiscount.com/pdt2/2/0/2/1/700x700/auc9782100825202/rw/software-craft-tdd-clean-code-et-autres-pratique.jpg" />
+<div align="center">
+  <img style="width:250px" title="Clean code" alt="Clean code" src="https://www.cdiscount.com/pdt2/8/8/4/1/550x550/auc9780132350884/rw/clean-code-martin-robert.jpg" />
+  <img style="width:250px" title="Lean startup" alt="Lean startup" src="https://www.cdiscount.com/pdt2/4/0/5/1/550x550/9782744066405/rw/lean-startup.jpg" />
+  <img style="width:250px" title="Software craft" alt="Software craft" src="https://www.cdiscount.com/pdt2/2/0/2/1/700x700/auc9782100825202/rw/software-craft-tdd-clean-code-et-autres-pratique.jpg" />
 </div>
